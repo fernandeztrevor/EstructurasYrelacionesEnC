@@ -9,6 +9,7 @@
 */
 int main()
 {
-    printf("Hello world!\n");
+    printf("Trevor Fernandez");
+
     return 0;
 }
