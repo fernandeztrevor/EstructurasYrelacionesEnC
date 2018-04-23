@@ -27,3 +27,31 @@
 
 1524492605 c:\test\estructurasyrelacionesenc\gerflix2.0\usuarioserie.h
 
+1524513159 source:c:\users\tfernandez_mecon\desktop\estructurasyrelacionesenc-master\gerflix2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"serie.h"
+	"usuario.h"
+	"usuarioSerie.h"
+
+1524481492 c:\users\tfernandez_mecon\desktop\estructurasyrelacionesenc-master\gerflix2.0\serie.h
+
+1524481492 c:\users\tfernandez_mecon\desktop\estructurasyrelacionesenc-master\gerflix2.0\usuario.h
+
+1524481492 c:\users\tfernandez_mecon\desktop\estructurasyrelacionesenc-master\gerflix2.0\usuarioserie.h
+
+1524481492 source:c:\users\tfernandez_mecon\desktop\estructurasyrelacionesenc-master\gerflix2.0\serie.c
+	"serie.h"
+	"usuario.h"
+	"usuarioSerie.h"
+
+1524513014 source:c:\users\tfernandez_mecon\desktop\estructurasyrelacionesenc-master\gerflix2.0\usuario.c
+	"usuario.h"
+	"serie.h"
+	"usuarioSerie.h"
+
+1524511794 source:c:\users\tfernandez_mecon\desktop\estructurasyrelacionesenc-master\gerflix2.0\usuarioserie.c
+	"usuarioSerie.h"
+	"serie.h"
+	"usuario.h"
+

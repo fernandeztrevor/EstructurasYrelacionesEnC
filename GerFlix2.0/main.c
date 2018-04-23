@@ -18,34 +18,49 @@ int main()
     eUsuario MisUsuarios[3];
     eUsuarioSerie misRelaciones[15];
 
-
+    CrearListadoUsuariosYSeries(misRelaciones);
+    CrearListadoDeTresUsuarios(MisUsuarios);
     CrearListadoSeries(listadoSerie, 5);
 
 
 
-for (int i=0; i<3; i++)
+/*for (int i=1; i<3; i++)
     {
-    printf("Usuario: %s", MisUsuarios[j].nombre);
-    for (int j=0; j<15; j++)
+    printf("Usuario: %s", MisUsuarios[i].nombre);
+    /*for (int j=0; j<15; j++)
     {//imprimir cada serie
-        printf("Usuario: %s", MisUsuarios[j].nombre);
-
+        printf("Serie: %s", misRelaciones[j].idSerie);
     }
-        for(int k=0; k<4; j++)
+       // for(int k=0; k<4; j++)
         {
-            printf("Serie: %s", array[k].serie);
+            //printf("Serie: %s", array[k].serie);
         }
     }
+    }*/
+
+    for (int i=0; i<3; i++)
+    {
+        printf("\nUsuario %d - %s", MisUsuarios[i].idUsuario, MisUsuarios[i].nombre);
 
 
-    /*for (int i=0; i<5; i++)
+            for (int j=0; j<9; j++)
+            {
+            printf("\nSerie %d", misRelaciones[j].idSerie);
+            }
+
+    }
+
+
+
+
+/*
+    for (int i=0; i<5; i++)
     {
         printf("\n%d", listadoSerie[i].idSerie);
         printf("\n%s", listadoSerie[i].nombre);
         printf("\n%s\n", listadoSerie[i].genero);
-    }*/
+    }
 
-
-
+*/
     return 0;
 }
