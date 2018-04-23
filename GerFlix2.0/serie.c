@@ -1,5 +1,6 @@
 #include "serie.h"
-
+#include "usuario.h"
+#include "usuarioSerie.h"
 
 void CrearListadoSeries(eSerie array[],int cantidad)
 {

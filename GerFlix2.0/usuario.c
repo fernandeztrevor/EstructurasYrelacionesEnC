@@ -1,4 +1,6 @@
 #include "usuario.h"
+#include "serie.h"
+#include "usuarioSerie.h"
 
 void CrearListadoDeTresUsuarios(eUsuario MisUsuarios[])
 {
