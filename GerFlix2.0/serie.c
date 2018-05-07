@@ -19,7 +19,7 @@ void CrearListadoSeries(eSerie array[],int cantidad)
      strcpy(array[0].nombre,"Los muertos vivos");
      strcpy(array[1].nombre,"Los vikingos");
      strcpy(array[2].nombre,"Los extraterrestres");
-     strcpy(array[3].nombre,"Los Hacker");
+     strcpy(array[3].nombre,"Los hacker");
      strcpy(array[4].nombre,"Los perdidos");
 
 }

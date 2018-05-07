@@ -5,6 +5,7 @@ typedef struct{
     int idSerie;
     char nombre[50];
     char genero[50];
+    int rating;
 }eSerie;
 
 void CrearListadoSeries(eSerie array[],int cantidad);

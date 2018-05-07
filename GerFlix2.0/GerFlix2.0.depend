@@ -55,3 +55,31 @@
 	"serie.h"
 	"usuario.h"
 
+1525655338 source:c:\users\toti\desktop\gerflix2.0\serie.c
+	"serie.h"
+	"usuario.h"
+	"usuarioSerie.h"
+
+1525648786 c:\users\toti\desktop\gerflix2.0\serie.h
+
+1524514140 c:\users\toti\desktop\gerflix2.0\usuario.h
+
+1524514140 c:\users\toti\desktop\gerflix2.0\usuarioserie.h
+
+1525644222 source:c:\users\toti\desktop\gerflix2.0\usuario.c
+	"usuario.h"
+	"serie.h"
+	"usuarioSerie.h"
+
+1525646044 source:c:\users\toti\desktop\gerflix2.0\usuarioserie.c
+	"usuarioSerie.h"
+	"serie.h"
+	"usuario.h"
+
+1525648671 source:c:\users\toti\desktop\gerflix2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	"serie.h"
+	"usuario.h"
+	"usuarioSerie.h"
+

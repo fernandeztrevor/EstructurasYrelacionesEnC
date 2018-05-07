@@ -8,7 +8,6 @@ void CrearListadoDeTresUsuarios(eUsuario MisUsuarios[])
     for(i=0;i<3;i++)
     {
         MisUsuarios[i].idUsuario=i+100;
-
     }
      strcpy(MisUsuarios[0].nombre,"Maria Pia");
      strcpy(MisUsuarios[1].nombre,"Jose Luis");
